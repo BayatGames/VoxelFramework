@@ -10,7 +10,9 @@ Also, this project is a package for Unity, and currently is in development and s
 
 ## Features
 
-Nothing yet!
+- Settings for Terrain Generation like Creating Biomes, Layers and Blocks
+- Chunk-Based Terrain Generation
+- Sub Meshes for Blocks
 
 ## Screenshots
 
@@ -35,4 +37,4 @@ Nothing yet!
 
 ## License
 
-MIT @ [Bayat Games](https://github.com/BayatGames)
+MIT @ [Bayat Games](https://github.com/BayatGames) (This license is will be removed when package got released and will go under Unity Asset Store terms)
