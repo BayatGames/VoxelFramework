@@ -26,6 +26,11 @@ Nothing yet!
 
 We will make a roadmap soon!
 
+## Credits
+
+- Assets from [Kenney](http://kenney.nl)
+- Maintenance and Development by [Hasan Bayat](https://github.com/EmpireWorld)
+
 ## License
 
 MIT @ [Bayat Games](https://github.com/BayatGames)
