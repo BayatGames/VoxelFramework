@@ -24,7 +24,9 @@ Nothing yet!
 
 ## Roadmap
 
-We will make a roadmap soon!
+- Make an Simple but Configurable API
+- More Optimizations for Terrain Generation
+- More Settings for Applying changes to Terrain
 
 ## Credits
 
