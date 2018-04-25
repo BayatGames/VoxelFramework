@@ -13,6 +13,16 @@ Also, this project is a package for Unity, and currently is in development and s
 - Chunk-Based Terrain Generation
 - Sub Meshes for Blocks
 
+## Installation
+
+Download or Clone the repository and you are ready to go.
+- [Download](https://github.com/BayatGames/VoxelFramework/archive/master.zip)
+- Clone via Command Line:
+```bash
+git clone https://github.com/BayatGames/VoxelFramework.git
+```
+Then Open it with Unity.
+
 ## Screenshots
 
 ![](https://i.imgur.com/JIWgrXH.png)
