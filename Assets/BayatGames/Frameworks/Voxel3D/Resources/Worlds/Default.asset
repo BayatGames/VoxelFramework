@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd0272b3db828924895db562ff4796fb, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  biomes:
+  - {fileID: 11400000, guid: fa088398e35423542a721ad21a72d571, type: 2}
+  - {fileID: 11400000, guid: d259e31c3812041469f5721f783c1ba5, type: 2}
+  terrainMaxHeight: 128
+  terrainMinHeight: 0
+  chunkPrefab: {fileID: 114854754902641692, guid: dc97f9e6b110cf54a955c3deb738ed78,
+    type: 2}
+  sheetTexture: {fileID: 2800000, guid: 247b9e9f36d8c604da6fb30148a9f81e, type: 3}
+  texturesUV:
+  - texture: {fileID: 2800000, guid: 6008caf35b0585a428c5a724acffff76, type: 3}
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0.25
+      height: 0.5
+  - texture: {fileID: 2800000, guid: 3fec78173f27b194494092d1710bafac, type: 3}
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 0.5
+      width: 0.25
+      height: 0.5
+  - texture: {fileID: 2800000, guid: 73fc1347d1be787449ce3de2707299f7, type: 3}
+    uv:
+      serializedVersion: 2
+      x: 0.25
+      y: 0
+      width: 0.25
+      height: 0.5
+  - texture: {fileID: 2800000, guid: 4d1a394c972e74b4c85f4a798b5eaa24, type: 3}
+    uv:
+      serializedVersion: 2
+      x: 0.25
+      y: 0.5
+      width: 0.25
+      height: 0.5
+  - texture: {fileID: 2800000, guid: dd6f81dab45a0764cb9f1391f6987ce0, type: 3}
+    uv:
+      serializedVersion: 2
+      x: 0.5
+      y: 0
+      width: 0.25
+      height: 0.5
+  - texture: {fileID: 2800000, guid: 530fafa05450f1441aba9b9de3d7f164, type: 3}
+    uv:
+      serializedVersion: 2
+      x: 0.75
+      y: 0
+      width: 0.25
+      height: 0.5
+  - texture: {fileID: 2800000, guid: 46de8923dd581ee42a5d967c55b6c4ec, type: 3}
+    uv:
+      serializedVersion: 2
+      x: 0.5
+      y: 0.5
+      width: 0.25
+      height: 0.5

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1a37289c793947418a6ff5d9c89647e, type: 3}
+  m_Name: Sand
+  m_EditorClassIdentifier: 
+  identifier: sand
+  emptyMesh: 0
+  forwardFace:
+    solid: 1
+    texture: {fileID: 2800000, guid: 530fafa05450f1441aba9b9de3d7f164, type: 3}
+    subMesh: 0
+  backFace:
+    solid: 1
+    texture: {fileID: 2800000, guid: 530fafa05450f1441aba9b9de3d7f164, type: 3}
+    subMesh: 0
+  rightFace:
+    solid: 1
+    texture: {fileID: 2800000, guid: 530fafa05450f1441aba9b9de3d7f164, type: 3}
+    subMesh: 0
+  leftFace:
+    solid: 1
+    texture: {fileID: 2800000, guid: 530fafa05450f1441aba9b9de3d7f164, type: 3}
+    subMesh: 0
+  upFace:
+    solid: 1
+    texture: {fileID: 2800000, guid: 46de8923dd581ee42a5d967c55b6c4ec, type: 3}
+    subMesh: 0
+  downFace:
+    solid: 1
+    texture: {fileID: 2800000, guid: 3fec78173f27b194494092d1710bafac, type: 3}
+    subMesh: 0

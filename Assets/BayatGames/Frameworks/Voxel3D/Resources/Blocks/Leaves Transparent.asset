@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1a37289c793947418a6ff5d9c89647e, type: 3}
+  m_Name: Leaves Transparent
+  m_EditorClassIdentifier: 
+  identifier: leaves_transparent
+  emptyMesh: 0
+  forwardFace:
+    solid: 0
+    texture: {fileID: 2800000, guid: dd6f81dab45a0764cb9f1391f6987ce0, type: 3}
+    subMesh: 1
+  backFace:
+    solid: 0
+    texture: {fileID: 2800000, guid: dd6f81dab45a0764cb9f1391f6987ce0, type: 3}
+    subMesh: 1
+  rightFace:
+    solid: 0
+    texture: {fileID: 2800000, guid: dd6f81dab45a0764cb9f1391f6987ce0, type: 3}
+    subMesh: 1
+  leftFace:
+    solid: 0
+    texture: {fileID: 2800000, guid: dd6f81dab45a0764cb9f1391f6987ce0, type: 3}
+    subMesh: 1
+  upFace:
+    solid: 0
+    texture: {fileID: 2800000, guid: dd6f81dab45a0764cb9f1391f6987ce0, type: 3}
+    subMesh: 1
+  downFace:
+    solid: 0
+    texture: {fileID: 2800000, guid: dd6f81dab45a0764cb9f1391f6987ce0, type: 3}
+    subMesh: 1

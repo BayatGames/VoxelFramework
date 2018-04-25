@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e888ff1d2411003439cb904d36a10df8, type: 3}
+  m_Name: Grassland
+  m_EditorClassIdentifier: 
+  moistureMin: -1
+  moistureMax: 0
+  layers:
+  - {fileID: 11400000, guid: af761af4fa14b3d4fb0fdb91cef9f114, type: 2}
+  - {fileID: 11400000, guid: c54f9500fd8d46e40b6261d32483565a, type: 2}
+  - {fileID: 11400000, guid: 24a6e10277bf39e499106fced5e07ed4, type: 2}
+  - {fileID: 11400000, guid: 7f0230661167f6f46a5db748fae47c02, type: 2}
+  - {fileID: 11400000, guid: 898c92acd7de558478860d1c8eebf27a, type: 2}
+  - {fileID: 11400000, guid: d706d40c8aaeba146ae2a5ab2418ad55, type: 2}
+  - {fileID: 11400000, guid: 401eee7a75844a3419f6f0fc62d3caa5, type: 2}
+  - {fileID: 11400000, guid: a5ca61485f90e9643adb21ca69b6d0d5, type: 2}
+  air: {fileID: 11400000, guid: aba82f86cd57c5345a0bd241248a7aad, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3980ef3e24d0c144aaf61d7bc2f0642, type: 3}
+  m_Name: Grass
+  m_EditorClassIdentifier: 
+  layerType: 2
+  baseHeight: 1
+  frequency: 1
+  amplitude: 1
+  exponent: 1
+  chanceToSpawnBlock: 10
+  block: {fileID: 11400000, guid: 55025a8cb43215b46a9fb39e0477b082, type: 2}
