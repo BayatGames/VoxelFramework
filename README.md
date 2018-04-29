@@ -38,6 +38,7 @@ Then Open it with Unity.
 - Make an Simple but Configurable API
 - More Optimizations for Terrain Generation
 - More Settings for Applying changes to Terrain
+- [Check out this project Flowchart](https://whimsical.co/6Fa9TW9TCG5fRf9DovkzVx) for more information also share your comments
 
 [More on Trello Development Board](https://trello.com/c/nLyDRNRz)
 
